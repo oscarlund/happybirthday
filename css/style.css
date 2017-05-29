@@ -12,7 +12,7 @@ h1 {
     margin: 0;
     font-family: 'Lora', serif;
     color:#3F4C20;
-    font-size: 120px;
+    font-size: 100px;
     font-weight: 300;
     line-height: normal;
 }
@@ -79,7 +79,7 @@ a {
 
 .text {
   text-align:center;
-  padding-top:300px;
+  padding-top:200px;
 }
 
 .text h1, h2, p {
@@ -231,7 +231,7 @@ a {
       }
       .text {
         text-align:center;
-        padding-top:400px;
+        padding-top:300px;
       }
   }
 
