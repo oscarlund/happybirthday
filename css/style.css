@@ -227,7 +227,7 @@ a {
       .flower {
         position:relative;
         display:inline;
-        width:40%;
+        width:30%;
       }
       .text {
         text-align:center;
@@ -242,6 +242,12 @@ a {
       }
       .text {
         padding-top:300px;
+      }
+
+      .flower {
+        position:relative;
+        display:inline;
+        width:40%;
       }
   }
 
